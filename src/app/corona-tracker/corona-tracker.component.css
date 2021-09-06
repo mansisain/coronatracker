@@ -1,0 +1,15 @@
+h1{
+    color: white;
+    background: black;
+    text-align: center;
+    height: 80px;
+    margin: auto;
+    padding: auto;
+    font-family:'Times New Roman', Times, serif;
+}
+button{
+    background:cyan;
+}
+div{
+    border-style:double
+}
